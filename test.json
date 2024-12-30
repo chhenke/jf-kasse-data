@@ -1,7 +1,10 @@
 {
-  data: 
-  [
-    {"name": "abc"}, 
-    {"name": "xyz"}
-  ]
+    "data": [
+        {
+            "name": "abc"
+        },
+        {
+            "name": "xyz"
+        }
+    ]
 }
