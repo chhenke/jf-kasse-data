@@ -2,11 +2,11 @@
     "data": [
         {
             "name": "abc",
-            "price": 2.5,
+            "price": 2.5
         },
         {
             "name": "xyz",
-            "price": 1.5,
+            "price": 1.5
         }
     ]
 }
