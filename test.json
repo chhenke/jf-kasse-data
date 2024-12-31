@@ -11,6 +11,10 @@
         {
             "name": "Pommes",
             "price": 2.0
+        },
+        {
+            "name": "Cola",
+            "price": 1.65
         }
     ]
 }
