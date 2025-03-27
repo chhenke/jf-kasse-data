@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "name": "Bratwurst",
+            "price": 3.0
+        },
+        {
+            "name": "Bratcurry",
+            "price": 3
+        },
+        {
+            "name": "Pommes",
+            "price": 2.5
+        },
+        {
+            "name": "Krakauer",
+            "price": 3.5
+        },
+        {
+            "name": "Nuggets",
+            "price": 3.5
+        },
+        {
+            "name": "Steak Brötchen",
+            "price": 4.5
+        },
+        {
+            "name": "Steak Pommes",
+            "price": 6.9
+        },
+        {
+            "name": "Riesen Curry",
+            "price": 6.9
+        },
+        {
+            "name": "Erbsensuppe",
+            "price": 5.0
+        }
+    ]
+}
