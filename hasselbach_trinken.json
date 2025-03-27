@@ -27,6 +27,10 @@
         {
             "name": "Glühwein",
             "price": 1.5
+        },
+        {
+            "name": "Pfand zurück",
+            "price": -1
         }
     ]
 }
