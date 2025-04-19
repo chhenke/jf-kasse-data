@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "name": "Softdrink",
+            "price": 1.5
+        },
+        {
+            "name": "Bier",
+            "price": 3.0
+        },
+        {
+            "name": "Radler",
+            "price": 3.0
+        },
+        {
+            "name": "Klopfer",
+            "price": 1.5
+        },
+        {
+            "name": "Kasten Krom",
+            "price": 60.0
+        },
+        {
+            "name": "Kasten Göpi",
+            "price": 75.0
+        },
+        {
+            "name": "Kasten Klopfer",
+            "price": 25.0
+        },
+        {
+            "name": "Pfand zurück",
+            "price": -0.5
+        }
+    ]
+}
