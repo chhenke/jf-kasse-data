@@ -11,6 +11,15 @@
         {
             "name": "Crepe Nutella",
             "price": 3.5
+        },
+        {
+            "name": "Glühwein",
+            "price": 2.5
+        },
+        {
+            "name": "Kinderpunsch",
+            "price": 2.0
         }
+        
     ]
 }
