@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "name": "Crepe Zimt",
+            "price": 3.0
+        },
+        {
+            "name": "Crepe Apfel",
+            "price": 3.5
+        },
+        {
+            "name": "Crepe Nutella",
+            "price": 3.5
+        }
+    ]
+}
