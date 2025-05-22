@@ -19,15 +19,15 @@
         {
             "name": "Pommes",
             "price": 2.0
-        }
+        },
         {
             "name": "Waffeln",
             "price": 2.0
-        }
+        },
         {
             "name": "Kuchen/Donut",
             "price": 1.0
-        }
+        },
         {
             "name": "Kaffee",
             "price": 1.0
