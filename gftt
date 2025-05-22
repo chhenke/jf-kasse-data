@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "name": "Cola",
+            "price": 1.0
+        },
+        {
+            "name": "Wasser",
+            "price": 1.0
+        },
+        {
+            "name": "Zero",
+            "price": 1.0
+        },
+        {
+            "name": "Sprite",
+            "price": 1.0
+        },
+        {
+            "name": "Fanta",
+            "price": 1.0
+        },
+        {
+            "name": "Apfel",
+            "price": 1.0
+        },
+        {
+            "name": "Bier",
+            "price": 2.0
+        },
+        {
+            "name": "Radler",
+            "price": 2.0
+        },
+        {
+            "name": "Klopfer",
+            "price": 1.5
+        }
+    ]
+}
