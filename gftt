@@ -35,6 +35,11 @@
         {
             "name": "Klopfer",
             "price": 1.5
+        },
+        {
+            "name": "Klopfer",
+            "price": 1.5
         }
+        
     ]
 }
