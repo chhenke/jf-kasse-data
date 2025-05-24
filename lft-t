@@ -2,39 +2,31 @@
     "data": [
         {
             "name": "Cola",
-            "price": 1.0
+            "price": 2.5
         },
         {
             "name": "Wasser",
-            "price": 1.0
+            "price": 2.5
         },
         {
             "name": "Zero",
-            "price": 1.0
+            "price": 2.5
         },
         {
             "name": "Sprite",
-            "price": 1.0
+            "price": 2.5
         },
         {
             "name": "Fanta",
-            "price": 1.0
+            "price": 2.5
         },
         {
             "name": "Apfel",
-            "price": 1.0
-        },
-        {
-            "name": "Bier",
-            "price": 2.0
-        },
-        {
-            "name": "Radler",
-            "price": 2.0
+            "price": 2.5
         },
         {
             "name": "Slush",
-            "price": 1.5
+            "price": 2.5
         },
     ]
 }
