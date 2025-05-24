@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "name": "Bratwurst",
+            "price": 2.5
+        },
+        {
+            "name": "Curry",
+            "price": 2.5
+        },
+        {
+            "name": "Krakauer",
+            "price": 3.0
+        },
+        {
+            "name": "Nuggets",
+            "price": 2.5
+        },
+        {
+            "name": "Pommes",
+            "price": 2.0
+        },
+        {
+            "name": "Waffeln",
+            "price": 2.0
+        },
+        {
+            "name": "Kuchen/Donut",
+            "price": 1.5
+        },
+        {
+            "name": "Kaffee",
+            "price": 1.0
+        }
+    ]
+}
