@@ -27,6 +27,10 @@
         {
             "name": "Slush",
             "price": 2.0
+        }, 
+        {
+            "name": "Pfand zurück",
+            "price": -0.25
         }
     ]
 }
