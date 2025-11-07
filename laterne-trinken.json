@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "name": "Cola",
+            "price": 2.0
+        },
+        {
+            "name": "Fanta",
+            "price": 2.0
+        },
+        {
+            "name": "Sprite",
+            "price": 2.0
+        },
+        {
+            "name": "Wasser",
+            "price": 2.0
+        },
+        {
+            "name": "Bier",
+            "price": 2.5
+        },
+        {
+            "name": "Glühwein",
+            "price": 2
+        },
+        {
+            "name": "Kinderpunsch",
+            "price": 1
+        },
+        {
+            "name": "Pfand",
+            "price": 1.0
+        },
+        {
+            "name": "Pfand zurück",
+            "price": -1.0
+        },
+       ]
+}
