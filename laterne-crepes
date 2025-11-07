@@ -2,11 +2,11 @@
     "data": [
         {
             "name": "Crepes Nutella",
-            "price": 2.5
+            "price": 3.0
         },
         {
             "name": "Crepes Zimt",
-            "price": 2.5
+            "price": 3.0
         }
        ]
 } 
