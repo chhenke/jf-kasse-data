@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "name": "Bratwurst",
+            "price": 2.5
+        },
+        {
+            "name": "Currywurst",
+            "price": 3.0
+        },
+        {
+            "name": "Pommes",
+            "price": 2.5
+        }
+       ]
+} 
