@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "name": "Bratwurst",
+            "price": 2.5
+        },
+        {
+            "name": "Currywurst",
+            "price": 3.0
+        },
+        {
+            "name": "Pommes",
+            "price": 2.5
+        },
+        {
+            "name": "Krakauer",
+            "price": 3.5
+        },
+        {
+            "name": "Veggie Wurst",
+            "price": 2.5
+        },
+        {
+            "name": "Wasser",
+            "price": 1.5
+        },
+        {
+            "name": "Softdrink",
+            "price": 2.0
+        },
+        {
+            "name": "Bier",
+            "price": 2.5
+        },
+        {
+            "name": "Radler",
+            "price": 2.5
+        }
+       ]
+} 
