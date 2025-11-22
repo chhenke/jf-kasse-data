@@ -2,7 +2,7 @@
     "data": [
         {
             "name": "Bratwurst",
-            "price": 2.5
+            "price": 3.0
         },
         {
             "name": "Currywurst",
@@ -18,7 +18,7 @@
         },
         {
             "name": "Veggie Wurst",
-            "price": 2.5
+            "price": 3.5
         },
         {
             "name": "Wasser",
