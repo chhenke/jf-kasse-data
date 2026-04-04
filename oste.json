@@ -2,11 +2,11 @@
     "data": [
         {
             "name": "Bratwurst",
-            "price": 2.5
+            "price": 3.0
         },
         {
             "name": "Bratcurry",
-            "price": 3
+            "price": 3.0
         },
         {
             "name": "Pommes",
